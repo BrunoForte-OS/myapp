@@ -11,7 +11,7 @@ module.exports = {
       ecmaVersion: 2020,
       ecmaFeatures: {
         impliedStrict: true,
-        jsx: true,
+        jsx: true, 
       },
       sourceType: 'module',
     },
